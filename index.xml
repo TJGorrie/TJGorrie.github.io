@@ -33,11 +33,8 @@ I love working in R, getting pretty handy at Python and begrundingly have to use
       <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
       
       <guid>/cv/</guid>
-      <description>Employment tbc
-Skills tbc
-Teaching Experience tbc
-Publications tbc
-References Available Upon Request</description>
+      <description>Employment April 2020 - Present Diamond Light Source, United Kingdom - Research Software Engineer
+Duties involved the development and deployment of internal web application used to visualise and collaboratively critique crystallographic data prior to public release (on the PDB and fragalysis.diamond.ac.uk), contributing to the weekly releases of data from the COVID Moonshot project. Update publicly available API (fragalysis-api) to use the latest open source libraries and to expand functionality to accommodate for multiple data-types and use-case scenarios.</description>
     </item>
     
     <item>
